@@ -1,6 +1,9 @@
 PSPLASH
 =======
 
+Credits: Ross Burton <ross.burton@intel.com>
+Fork of PSPLASH from YOCTO project [http://git.yoctoproject.org/cgit/cgit.cgi/]
+
 PSplash is a userspace graphical boot splash screen for mainly
 embedded Linux devices supporting a 16bpp or 32bpp framebuffer. It has
 few dependencies (just libc), supports basic images and text and handles
